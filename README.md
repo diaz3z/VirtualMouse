@@ -53,6 +53,14 @@ Ensure your hand is visible to the webcam and use the following gestures:
 - Bring your index and middle fingers close together to perform a left-click
 - Raise all fingers to pause cursor control
 
+
+## Screenshots
+![Screenshot 2024-08-22 231224](https://github.com/user-attachments/assets/ecdcec3f-5211-4ea3-9e3e-2c1824e35b72)
+![Screenshot 2024-08-22 231237](https://github.com/user-attachments/assets/04fa3f6a-622a-425e-8a30-5a3c70f7a331)
+![Screenshot 2024-08-22 231252](https://github.com/user-attachments/assets/f0d56254-8605-4b82-9d63-adbf951a3c4a)
+![Screenshot 2024-08-22 231300](https://github.com/user-attachments/assets/c66b2493-5244-48a4-a5fd-3389588df152)
+
+
 ## Future Improvements
 
 - Implement right-click functionality
