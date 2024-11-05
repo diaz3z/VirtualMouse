@@ -96,4 +96,4 @@ MIT License
 
 Mohammad Zaid - mdzaid786291@gmail.com
 
-Project Link: [https://github.com/yourusername/virtual-cursor-control](https://github.com/diaz3z/VirtualMouse)
+Project Link: [https://github.com/diaz3z/virtual-cursor-control](https://github.com/diaz3z/VirtualMouse)
